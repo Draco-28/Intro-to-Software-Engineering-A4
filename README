@@ -1,0 +1,36 @@
+Program Author: Justin Calverley (ID: 101218430)
+
+Purpose: Manage a collection of animals and their owners/parents that are registered at an animal clinic. The user can view the lists of customers or animals registered to the clinic.
+
+Source Files:
+	- Animal.cc
+	- Clinic.cc
+	- Collection.cc
+	- Control.cc
+	- Customer.cc
+	- IdArray.cc
+	- Identifiable.cc
+	- IdList.cc
+	- main.cc
+	- View.cc
+Header Files:
+	- Animal.h
+	- Clinic.h
+	- Collection.h
+	- Control.h
+	- Customer.h
+	- defs.h
+	- IdArray.h
+	- Identifiable.h
+	- IdList.h
+	- View.h
+Other Files:
+	- Makefile
+	- README
+	
+Compilation and Launching Instructions:
+	1. Open a command terminal in the location of the program
+	2. Run the command "make a4" to compile the code
+	3. Run the command "./a4" to run the program
+	4. Follow the instructions given by the program
+	5. When finished with the program, run the command "make clean" to remove extra files
